@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;product-service.properties&apos; to &apos;ProductManagement/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;SpringConfigServer&apos;&#x0D;&#x0A;- Destination element: &apos;ProductManagement/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;product-service.properties&apos;" description="Copy file" destination="=ProductManagement/src\/main\/resources=/maven.pomderived=/true=/" element1="git-localconfig-repo/product-service.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1588519049842" units="0" version="1.0"/>
+</session>
